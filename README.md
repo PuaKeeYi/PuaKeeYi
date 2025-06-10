@@ -4,7 +4,15 @@ I am a recent graduate with a Bachelor's degree in Computer Science, with a spec
 
 # Academic Projects:
 - [Bleached Coral Classification](https://bleached-coral-classification.streamlit.app): An applicaiton that fetches a deep learning model which is able to classify bleahced coral and healthy coral.
-- [Brain Tumor Repository](https://github.com/dxlee0807/brain-tumor)
+- [Brain Tumor Repository](https://github.com/dxlee0807/brain-tumor): A group project aimed at training a machine learning model to accurately detect various types of brain tumors with over 90% accuracy.
+- [Airport Simulation](https://github.com/PuaKeeYi/airport_simulation): A java project thats simulate the behaviour of multiple planes try to land and depart at the aorport with limited resources.
+- [GiantBike_Analysis](https://github.com/PuaKeeYi/GiantBike_Analysis): This project conducts a comprehensive analysis to identify the underlying causes of Giant Bike’s revenue losses during the 2010–2015 period.
+
+# Technical Skills
+- Languages: TypeScript, Python, HTML, Java, C++, C#, SQL, Rust
+- Data Analytic Tools: R programming, SSAS, DBMS
+- FrontEnd: React
+- BackEnd: Node.js
 
 
 <!--
