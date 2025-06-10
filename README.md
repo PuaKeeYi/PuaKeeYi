@@ -9,10 +9,10 @@ I am a recent graduate with a Bachelor's degree in Computer Science, with a spec
 - [GiantBike_Analysis](https://github.com/PuaKeeYi/GiantBike_Analysis): This project conducts a comprehensive analysis to identify the underlying causes of Giant Bike’s revenue losses during the 2010–2015 period.
 
 # Technical Skills
-- Languages: TypeScript, Python, HTML, Java, C++, C#, SQL, Rust
-- Data Analytic Tools: R programming, SSAS, DBMS
-- FrontEnd: React
-- BackEnd: Node.js
+- _Languages_: TypeScript, Python, HTML, Java, C++, C#, SQL, Rust
+- _Data Analytic Tools_: R programming, SSAS, DBMS
+- _FrontEnd_: React
+- _BackEnd_: Node.js
 
 
 <!--
