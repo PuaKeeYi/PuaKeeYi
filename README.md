@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 My name is Kee Yi, a fresh graduate from Asia Pasific University.
+ 
+I am a recent graduate with a Bachelor's degree in Computer Science, with a specialization in data analysis. Due to my academic background I developed a strong foundation in areas of data data manipulating and visualizing and also able to handle mechine learning and modeling. In addition, I have a keen interest in software development as I enjoy exploring new technologies and have been gradually building my skills in web and application development. As I begin my career, I am eager to apply my skills in both data analysis and software development. I look forward to contributing to real-world projects, gaining hands-on experience, and continuously growing as a tech professional.
+
+# Academic Projects:
+- bleached-coral-classification.streamlit.app
+
 
 <!--
 **PuaKeeYi/PuaKeeYi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
