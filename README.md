@@ -3,7 +3,8 @@
 I am a recent graduate with a Bachelor's degree in Computer Science, with a specialization in data analysis. Due to my academic background I developed a strong foundation in areas of data data manipulating and visualizing and also able to handle mechine learning and modeling. In addition, I have a keen interest in software development as I enjoy exploring new technologies and have been gradually building my skills in web and application development. As I begin my career, I am eager to apply my skills in both data analysis and software development. I look forward to contributing to real-world projects, gaining hands-on experience, and continuously growing as a tech professional.
 
 # Academic Projects:
-- bleached-coral-classification.streamlit.app#L
+- [Bleached Coral Classification](https://bleached-coral-classification.streamlit.app): An applicaiton that fetches a deep learning model which is able to classify bleahced coral and healthy coral.
+- [Brain Tumor Repository](https://github.com/dxlee0807/brain-tumor)
 
 
 <!--
